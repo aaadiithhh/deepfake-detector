@@ -1,0 +1,4 @@
+venv/
+140k real and fake faces/
+deepfake_detector.pth
+__pycache__/
