@@ -1,0 +1,7 @@
+
+Flask
+gunicorn
+Pillow
+torch
+torchvision
+transformers
